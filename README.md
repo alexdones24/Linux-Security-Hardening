@@ -11,7 +11,6 @@ Over the course of this project, I learned how to build and secure a Linux virtu
 
 The reports in this repository document each stage of the project and include screenshots of my work and the results I achieved.
 
----
 ## Technologies Used
 - Rocky Linux 9
 - Oracle VirtualBox
@@ -22,7 +21,6 @@ The reports in this repository document each stage of the project and include sc
 - Ansible
 - SELinux
 
----
 ## Skills I Learned
 - Creating virtual machines with Oracle VirtualBox
 - Linux system administration
@@ -78,11 +76,9 @@ Throughout this project, I gained hands-on experience with:
 - Working with SELinux security policies
 - Documenting security assessment results
 
----
 ## Reports
 The complete reports for each stage of the project are available in the **docs/** folder.
 
----
 ## Environment
 | Component | Details |
 |----------|---------|
@@ -94,6 +90,5 @@ The complete reports for each stage of the project are available in the **docs/*
 ## Acknowledgments
 This project was completed as part of my university **Operating Systems Security** course.
 
----
 ## License
 This project is licensed under the MIT License.
