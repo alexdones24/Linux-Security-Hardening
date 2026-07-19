@@ -30,7 +30,6 @@ The reports in this repository document each stage of the project and include sc
 - Automating security hardening with Ansible
 - Working with SELinux policies and security contexts
 
----
 ## Project Breakdown
 
 ### Virtual Machine Setup
@@ -86,7 +85,6 @@ The complete reports for each stage of the project are available in the **docs/*
 | Hypervisor | Oracle VirtualBox |
 | Guest OS | Rocky Linux 9 |
 
----
 ## Acknowledgments
 This project was completed as part of my university **Operating Systems Security** course.
 
