@@ -40,11 +40,11 @@ The reports in this repository document each stage of the project and include sc
 - Evaluated Linux distributions before selecting Rocky Linux
 - Configured the virtual machine for future security labs
 
-### Security Assessment
+### STIG Assessment
 - Performed compliance scans using DISA STIG and CIS Benchmarks
 - Reviewed security findings using the SCAP Compliance Checker
 
-### Security Remediation
+### STIG Remediation
 - Researched and fixed security findings
 - Improved the system's compliance with security recommendations
 
@@ -52,9 +52,15 @@ The reports in this repository document each stage of the project and include sc
 - Reviewed CAT I, CAT II, and CAT III findings
 - Documented manual remediation steps
 
-### Automated Hardening
+### Ansible Automation
 - Used Ansible to automate the application of DISA STIG configurations
 - Compared manual hardening with automated configuration management
+
+### Solaris Trusted Extensions
+- Researched Solaris Trusted Extensions and multilevel security concepts
+- Designed a labeled zone architecture using different security classifications
+- Applied the "no read up, no write down" access control model
+- Created administrative roles and user clearance levels for a secure government intelligence environment
 
 ### SELinux Administration
 - Explored SELinux modes, labels, contexts, and policy booleans
