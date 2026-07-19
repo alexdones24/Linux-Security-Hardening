@@ -61,6 +61,18 @@ The reports in this repository document each stage of the project and include sc
 - Learned how SELinux provides additional access control for Linux systems
 
 ---
+## Learning Outcomes
+
+Throughout this project, I gained hands-on experience with:
+
+- Deploying Linux virtual machines
+- Performing security assessments using DISA STIG and CIS Benchmarks
+- Manually remediating security findings
+- Automating security hardening with Ansible
+- Working with SELinux security policies
+- Documenting security assessment results
+
+---
 ## Reports
 The complete reports for each stage of the project are available in the **docs/** folder.
 
